@@ -1,0 +1,19 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript">
+var obj1 = { user:"John", age:22, country:"United States" };
+var obj2 = { user:"Will", age:24, country:"Canada" };
+var obj3 = { user:"Bobby", age:26, country:"Mexico" };
+var obj4 = { u1:obj1, u2:obj2, u3:obj3 };
+document.write(obj3.user+" is "+obj3.age+" years old and lives in "+obj3.country);
+obj3.country = "Italy";
+document.write("<hr />");
+document.write(obj3.user+" is "+obj3.age+" years old and lives in "+obj3.country);
+document.write("<hr />");
+document.write(obj4.u2.country);
+</script>
+</head>
+
+<body>
+</body>
+</html>
