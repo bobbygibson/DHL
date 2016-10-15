@@ -9,4 +9,4 @@ john, 22, united states are values
 
 Arrays which are variables with an "array" of values inside of them.
 <br>
-EXAMPLE var fruit = ["apple","plumb","grape","orange"];
+EXAMPLE: var fruit = ["apple","plumb","grape","orange"];
