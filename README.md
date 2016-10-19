@@ -7,6 +7,7 @@ object1 is the object<br>
 user, age, country are keys<br>
 john, 22, united states are values<br>
 
-Arrays which are variables with an "array" of values inside of them.
+Objects contains a Key and value pairs
+Arrays are used to organize a collection of items (which could be objects)
 <br>
 EXAMPLE: var fruit = ["apple","plumb","grape","orange"];
